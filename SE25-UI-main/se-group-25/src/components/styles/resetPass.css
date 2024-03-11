@@ -1,0 +1,117 @@
+.back-btn button{
+    border: none;
+    padding: 8px;
+    width: 55px;
+    background-color: #FF472F;
+    color: white;
+    border-radius: 5px;
+}
+
+.email-handler{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.enter-email {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.email-submit{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.otp-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.otp-form{
+    display: flex;
+    flex-direction: column  ;
+    gap: 20px;
+}
+
+.render-separator{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+
+.render-separator div{ 
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.reset-password-light form, .reset-password-dark form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.reset-password-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;   
+}
+
+.reset-password-form div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.reset-password-form input {
+    width: 200px;
+}
+
+.resend-otp-light, .resend-otp-dark{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+.resend-otp-light {
+    color: black;
+}
+
+.resend-otp-dark{
+    color: white;
+}
+
+
+.link-disabled{
+    cursor: none;
+    text-decoration:none;
+}
+
+.link-active {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.resend-otp-light .link-disabled{
+    color:gray;
+}
+
+
+.resend-otp-dark .link-disabled{
+    color:rgb(144, 144, 144);
+}
+
+.resend-otp-light .link-active{
+    color: blue;
+}
+
+.resend-otp-dark .link-active{
+    color: rgb(0, 200, 255);
+}

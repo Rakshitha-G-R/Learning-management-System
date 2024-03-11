@@ -1,0 +1,239 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1443px;
+  position: relative;
+  width: 1440px;
+}
+
+.index .overlap-group {
+  background: linear-gradient(180deg, rgb(166, 0, 25) 0%, rgb(255, 71, 47) 100%);
+  border-radius: 40px;
+  height: 869px;
+  left: 20px;
+  position: absolute;
+  top: 15px;
+  width: 1400px;
+}
+
+
+.index .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.index .about-button {
+  /* Styles for the "About" button */
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 982px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+  width: 100px; /* Adjust width as needed */
+  background-color: #5e0000; /* Background color */
+  border-radius: 10px; /* Reduced border radius */
+  padding: 10px 20px; /* Adjust padding as needed */
+  text-align: center; /* Center the text */
+}
+
+.index .meet-the-team-button {
+  /* Styles for the "Meet The Team" button */
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1093px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+  min-width: 120px; /* Minimum width to fit the text */
+  background-color: #5e0000; /* Background color */
+  border-radius: 10px; /* Reduced border radius */
+  padding: 10px 20px; /* Adjust padding as needed */
+  text-align: center; /* Center the text */
+}
+
+
+.index .overlap {
+  height: 595px;
+  left: 122px;
+  position: absolute;
+  top: 159px;
+  width: 1259px;
+}
+
+.index .log-in-wrapper {
+  background-color: #5e0000;
+  border-radius: 20px;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 550px;
+  width: 204px;
+}
+
+.index .log-in {
+  color: #fafafa;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+}
+
+
+
+.index .span {
+  color: #fafafa;
+  font-family: "Inter", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .overlap-2 {
+  height: 551px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1259px;
+}
+
+.index .igniting-the {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 201px;
+  width: 531px;
+  object-fit: contain
+}
+
+.index .imageedit {
+  height: 551px;
+  left: 488px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 771px;
+}
+
+.index .IGNITION {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 76px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.index .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 76px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .boo-switch {
+  height: 42px;
+  left: 1297px;
+  position: absolute;
+  top: 55px;
+  width: 64px;
+}
+
+.index .layer {
+  height: 99px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 53px;
+}
+
+.index .rectangle {
+  height: 488px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 935px;
+  width: 500px;
+}
+
+.index .overlap-3 {
+  background-color: #ffdaca;
+  border-radius: 29px;
+  height: 460px;
+  left: 578px;
+  position: absolute;
+  top: 949px;
+  width: 823px;
+}
+
+.index .calendar-based-UI {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  font-weight: 300;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .catchy-statement-may {
+  height: 329px;
+  left: 52px;
+  position: absolute;
+  top: 112px;
+  width: 717px;
+  object-fit: contain
+}
+
+.index .catchy-statement-may {
+  font-family: "Inter", Helvetica;
+  font-size: 28px; /* Adjust the font size as needed */
+  font-weight: 400;
+  color: #000000; /* Change the text color as needed */
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center; /* Adjust the text alignment as needed */
+  margin-top: 20px; /* Add margin-top for spacing */
+}
